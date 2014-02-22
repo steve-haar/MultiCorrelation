@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\Correlation.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\Correlation.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\Correlation.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\Correlation.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\Correlation.pdb

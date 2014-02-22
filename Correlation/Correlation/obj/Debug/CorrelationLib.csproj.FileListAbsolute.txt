@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\Correlation.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\Correlation.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\Correlation.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\Correlation.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\CorrelationLib.csproj.ResolveComReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.IO.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.IO.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\bin\Debug\MathNet.Numerics.IO.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\Correlation\Correlation\obj\Debug\CorrelationLib.csprojResolveAssemblyReference.cache

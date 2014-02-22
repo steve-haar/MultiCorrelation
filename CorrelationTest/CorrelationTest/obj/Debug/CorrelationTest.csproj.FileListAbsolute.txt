@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\obj\Debug\CorrelationTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\CorrelationTest.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\CorrelationTest.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\Correlation.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\Correlation.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\obj\Debug\CorrelationTest.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\obj\Debug\CorrelationTest.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.IO.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.IO.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Correlation\CorrelationTest\CorrelationTest\bin\Debug\MathNet.Numerics.IO.xml
